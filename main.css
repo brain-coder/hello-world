@@ -1,0 +1,116 @@
+/* Html & Body */
+
+
+html, body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Navbar */
+
+
+.navbar {
+    padding-left: 0;
+    margin-bottom: 25px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.nav-item {
+    font-size: 16px;
+}
+
+.nav-item > a {
+    padding: 5px 0 0 0;
+}
+
+.weitere-themen {
+    color: #212529 !important;
+}
+
+
+/* Content Divs */
+
+
+.cont-info, .cont-geo, .cont-geschichte, .cont-unternehmen {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}
+
+.cont-info:hover, .cont-geo:hover, .cont-geschichte:hover, .cont-unternehmen:hover {
+    box-shadow: 1px 1px 6px #a0a0a0;
+}
+
+.cont-info > h4 , .cont-geo > h4 , .cont-geschichte > h4 , .cont-unternehmen > h4 {
+    padding: 15px;
+}
+
+.cont-info > p, .cont-geo > p, .cont-geschichte > p, .cont-unternehmen > p {
+    padding: 15px 15px 30px 15px;
+}
+
+.cont-forschung, .cont-probleme {
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}
+
+.cont-forschung:hover, .cont-probleme:hover {
+    box-shadow:1px 1px 6px #a0a0a0;
+}
+
+.cont-forschung > h4, .cont-probleme > h4 {
+    padding: 15px;
+}
+
+.cont-forschung > h5, .cont-probleme > h5 {
+    padding: 15px;
+}
+
+.cont-forschung > p, .cont-probleme > p {
+    padding: 15px 15px 40px 15px;
+}
+
+
+/* Cut Border */
+
+
+.cont-cut {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+/* Footer */
+
+
+.footer-div > footer {
+    margin-top: 35px;
+    margin-bottom: 10px;
+    padding: 10px 0 10px 0;
+    color: #212529;
+    text-align: center;
+    border-top: 2px solid #212529;
+    font-size: 15px;
+}
+
+
+/* Table */
+
+
+.th {
+    background: #002e45;
+    color: #fff;
+    font-weight: normal;
+}
+
+.table-link {
+    text-decoration: none;
+    color: #212529;
+}
+
+.table-link:hover {
+    text-decoration: none;
+    color: #212529;
+}
