@@ -26,7 +26,7 @@ html, body {
     padding: 5px 0 0 0;
 }
 
-.weitere-themen {
+.other-topic {
     color: #212529 !important;
 }
 
@@ -34,41 +34,41 @@ html, body {
 /* Content Divs */
 
 
-.cont-info, .cont-geo, .cont-geschichte, .cont-unternehmen {
+.cont-info {
     border: 1px solid rgba(0, 0, 0, 0.08);
     border-radius: 4px;
 }
 
-.cont-info:hover, .cont-geo:hover, .cont-geschichte:hover, .cont-unternehmen:hover {
+.cont-info:hover {
     box-shadow: 1px 1px 6px #a0a0a0;
 }
 
-.cont-info > h4 , .cont-geo > h4 , .cont-geschichte > h4 , .cont-unternehmen > h4 {
+.cont-info > h4 {
     padding: 15px;
 }
 
-.cont-info > p, .cont-geo > p, .cont-geschichte > p, .cont-unternehmen > p {
+.cont-info > p {
     padding: 15px 15px 30px 15px;
 }
 
-.cont-forschung, .cont-probleme {
+.cont-info2 {
     border: 1px solid rgba(0, 0, 0, 0.08);
     border-radius: 4px;
 }
 
-.cont-forschung:hover, .cont-probleme:hover {
+.cont-info2:hover {
     box-shadow:1px 1px 6px #a0a0a0;
 }
 
-.cont-forschung > h4, .cont-probleme > h4 {
+.cont-info2 > h4  {
     padding: 15px;
 }
 
-.cont-forschung > h5, .cont-probleme > h5 {
+.cont-info2 > h5 {
     padding: 15px;
 }
 
-.cont-forschung > p, .cont-probleme > p {
+.cont-info2 > p {
     padding: 15px 15px 40px 15px;
 }
 
