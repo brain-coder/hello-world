@@ -119,7 +119,7 @@ html, body {
 /* Media Queries for Mobile and Tablel*/
 
 
-@media (max-width: 992px) {
+@media (max-width: 1200px) {
     .cont-info:hover {
         box-shadow: none;
     }
@@ -128,24 +128,3 @@ html, body {
         box-shadow: none;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
