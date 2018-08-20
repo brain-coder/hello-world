@@ -114,3 +114,38 @@ html, body {
     text-decoration: none;
     color: #212529;
 }
+
+
+/* Media Queries for Mobile and Tablel*/
+
+
+@media (max-width: 992px) {
+    .cont-info:hover {
+        box-shadow: none;
+    }
+
+    .cont-info2:hover {
+        box-shadow: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
